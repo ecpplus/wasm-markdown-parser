@@ -8,3 +8,4 @@ wasm/wasm-pack.log
 wasm/worker/generated/
 
 frontend/dist/
+frontend/.cache/
