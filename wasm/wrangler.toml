@@ -1,0 +1,7 @@
+name = "rustwasm-markdown-parser"
+type = "rust"
+
+account_id = "b8ed513e5ceeeb86f42f684028ef9f0d"
+workers_dev = true
+route = "wasm.ecpplus.net/worker-dev"
+zone_id = "d4b0341efc855a40cdfcd55e3019e561"
